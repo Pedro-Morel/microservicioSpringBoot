@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "productJSON1",
+    "price": 100.0,
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "name": "productJSON2",
+    "price": 200.0,
+    "stock": 20
+  },
+  {
+    "id": 3,
+    "name": "productJSON3",
+    "price": 300.0,
+    "stock": 30
+  }
+]
