@@ -171,6 +171,33 @@
 					"response": []
 				}
 			]
+		},
+		{
+			"name": "API Productos",
+			"item": [
+				{
+					"name": "GET Productos",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/sistema/api/v1/productos",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"sistema",
+								"api",
+								"v1",
+								"productos"
+							]
+						}
+					},
+					"response": []
+				}
+			]
 		}
 	]
 }
